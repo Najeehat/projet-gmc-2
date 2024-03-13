@@ -1,4 +1,6 @@
 # projet-gmc-2
+1- Créer la barre de navigation : accueil, à propos, travail, CV, contact
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
