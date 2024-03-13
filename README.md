@@ -18,3 +18,5 @@
     </ul>
 </body>
 </html>
+
+2- Créez la section « à propos », la section « travail », la section « CV » et la section « contact » (à l'aide de formulaires HTML) 
